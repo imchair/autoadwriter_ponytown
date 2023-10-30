@@ -78,4 +78,4 @@ function updateAndSendMessage() {
   }
 }
 
-setInterval(updateAndSendMessage, 5000 + Math.random() * 2000);
+setInterval(updateAndSendMessage, 4000 + Math.random() * 2000);

@@ -1,5 +1,6 @@
 # AUTOMATIC AD WRITER for Pony Town
-## this script is designed to automatically insert text, and then send a message with an interval of 5-7 seconds, as well as a random click of 39% after each message, which imitates the actions of the player, and does not allow moderators to determine what the script is writing for you. more details in the README
+## this script is designed to automatically insert text, and then send a message with an interval of 5-7 seconds, as well as a random click of 39% after each message, which imitates the actions of the player, and does not allow moderators to determine what the script is writing for you.
+
 ### to change the text of the advertisement, you will need either in VSC /other IDE programs with a code editor OR in the browser console itself, just change in the line `"const statsText = "your text";` 'your text' can be changed to your text. DON'T ACCIDENTALLY DELETE THE QUOTES!!!
 
 ## INSTRUCTIONS FOR USE
